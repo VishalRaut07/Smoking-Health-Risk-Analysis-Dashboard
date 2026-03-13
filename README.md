@@ -100,7 +100,7 @@ Ensured consistency between KPIs and charts
 
 (<img width="1247" height="704" alt="image" src="https://github.com/user-attachments/assets/2a40175d-fca7-417b-b061-48b1e357d6d2" />)
 
-  Key Learnings
+  Key Learnings :
 
 How behavioral factors influence health risk
 
