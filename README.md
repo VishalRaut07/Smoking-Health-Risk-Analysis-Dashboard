@@ -114,5 +114,5 @@ Designing storytelling dashboards in healthcare analytics
  Author
 
 Vishal Raut
-Data Analyst | Power BI • SQL • Python
+Data Analyst | Power BI • SQL • Python • Excel
 
