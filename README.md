@@ -5,7 +5,7 @@ This project analyzes the annual health risks associated with smoking behavior a
 
 The dashboard provides interactive insights to help understand how smoking habits influence long-term health outcomes.
 
- --  Objectives
+ --  Objectives --
 
 Analyze smoking status distribution (Never, Current, Former)
 
@@ -17,7 +17,7 @@ Evaluate cholesterol and hypertension risk across age groups
 
 Provide actionable health risk insights
 
- -- Tools & Technologies Used
+ -- Tools & Technologies Used --
 
 Power BI – Dashboard creation & visualization
 
